@@ -1,7 +1,7 @@
 # rust_learning
 Trying out rust for the first time.
 
-My primary language is C (not C++), so this will be from the perspective of someone who is used to C and it's conventions.
+My primary language is C (not C++), so this will be from the perspective of someone who is familiar with C and it's conventions.
 GCC, GDB, and Make are all tools that I use often when making a project in C. I may reference these tools in this file when comparing the C experience to the Rust experience.
 
 I am following "the book" on the rust website: https://doc.rust-lang.org/book/
