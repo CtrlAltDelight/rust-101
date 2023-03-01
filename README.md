@@ -1,4 +1,4 @@
-# Learning Rust ![Rust Crab Icon](https://www.freecodecamp.org/news/content/images/2021/01/rust-mascot.png =75x)
+# Learning Rust <img src="https://www.freecodecamp.org/news/content/images/2021/01/rust-mascot.png" alt="Rust crab icon" width=100px, height=75px>
 
 ## Background
 This is me trying out rust for the first time.
