@@ -34,3 +34,4 @@ Cargo is essentially rust's version of make. It also acts like a package manager
   + There are only a few commands you need to know to get started.
   + It automatically names your executable file with something identifyable. Technically this is rustc but whatever. I find it better than gcc's `a.out` for everything unless otherwise specified.
 
++ Shadowing seems a bit dodgy, but hopefully it allows for more clear code. Though I am a bit skeptical of it.
